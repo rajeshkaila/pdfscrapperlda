@@ -1,4 +1,4 @@
-pip install PyPDF2
+pip install streamlit PyPDF2
 import streamlit as st
 import PyPDF2
 import re
