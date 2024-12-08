@@ -16,6 +16,7 @@ from sklearn.decomposition import LatentDirichletAllocation
 # Ensure nltk resources are downloaded
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('punkt_tab')
 
 # Set up the stopwords and stemmer
 en_stopwords = set(stopwords.words("english"))
