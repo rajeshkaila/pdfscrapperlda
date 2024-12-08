@@ -3,7 +3,7 @@ numpy
 matplotlib
 nltk
 PyPDF2
-sting
+string
 re
 wordcloud
 streamlit
